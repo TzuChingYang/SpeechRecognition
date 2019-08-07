@@ -1,0 +1,11 @@
+C:\Users\apple\source\repos\Speech\Speech\bin\Debug\netcoreapp2.1\Speech.deps.json
+C:\Users\apple\source\repos\Speech\Speech\bin\Debug\netcoreapp2.1\Speech.runtimeconfig.json
+C:\Users\apple\source\repos\Speech\Speech\bin\Debug\netcoreapp2.1\Speech.runtimeconfig.dev.json
+C:\Users\apple\source\repos\Speech\Speech\bin\Debug\netcoreapp2.1\Speech.dll
+C:\Users\apple\source\repos\Speech\Speech\obj\Debug\netcoreapp2.1\Speech.csprojAssemblyReference.cache
+C:\Users\apple\source\repos\Speech\Speech\obj\Debug\netcoreapp2.1\Speech.csproj.CoreCompileInputs.cache
+C:\Users\apple\source\repos\Speech\Speech\obj\Debug\netcoreapp2.1\Speech.AssemblyInfoInputs.cache
+C:\Users\apple\source\repos\Speech\Speech\obj\Debug\netcoreapp2.1\Speech.AssemblyInfo.cs
+C:\Users\apple\source\repos\Speech\Speech\bin\Debug\netcoreapp2.1\Speech.pdb
+C:\Users\apple\source\repos\Speech\Speech\obj\Debug\netcoreapp2.1\Speech.dll
+C:\Users\apple\source\repos\Speech\Speech\obj\Debug\netcoreapp2.1\Speech.pdb
